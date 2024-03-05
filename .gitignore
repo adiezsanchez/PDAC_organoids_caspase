@@ -9,3 +9,4 @@ __pycache__/
 # Data folders
 raw_data
 processed_data
+raw_data.zip
