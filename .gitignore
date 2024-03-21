@@ -10,3 +10,4 @@ __pycache__/
 raw_data
 processed_data
 raw_data.zip
+temp_zip_parts
